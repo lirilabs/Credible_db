@@ -23,10 +23,15 @@
       "userId": "user_adrx8ji",
       "text": "aaa",
       "ts": 1766591449068
+    },
+    {
+      "id": "e38a74cd-926a-4265-ad3e-6c33865df678",
+      "userId": "user_504vsli",
+      "text": "ffffffffffffffffffffffffff",
+      "ts": 1766591956925
     }
   ],
   "points": [
-    "user_52cw5iy",
-    "user_504vsli"
+    "user_52cw5iy"
   ]
 }
